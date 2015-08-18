@@ -14,14 +14,5 @@
     },
     "bugs": {
         "url": "https://github.com/mishoo/UglifyJS2/issues"
-    },
-    "bin": {
-        "uglifyjs": "bin/uglifyjs"
-    },
-    "files": [
-        "bin",
-        "lib",
-        "tools",
-        "LICENSE"
-    ]
+    }
 }
